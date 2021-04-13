@@ -1,0 +1,16 @@
+package com.ericvuu.dojosandninjas.repositories;
+
+import java.util.List;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import com.ericvuu.dojosandninjas.models.Dojo;
+//import com.ericvuu.dojosandninjas.models.Ninja;
+
+@Repository
+public interface DojoRepository extends CrudRepository<Dojo, Long> {
+	
+	List<Dojo>findAll();
+	
+}

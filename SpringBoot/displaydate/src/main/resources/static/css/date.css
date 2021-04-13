@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+.date-container{
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+}
+
+.date-text{
+	align-self: center;
+	font-size: 5rem;
+	color: blue;
+}

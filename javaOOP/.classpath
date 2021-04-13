@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BankAccount/src"/>
+	<classpathentry kind="src" path="Calculator/src"/>
+	<classpathentry kind="src" path="ObjectMaster/src"/>
+	<classpathentry kind="src" path="Phone/src"/>
+	<classpathentry kind="src" path="ProjectClass"/>
+	<classpathentry kind="src" path="SinglyLinkedList"/>
+	<classpathentry kind="src" path="ZooKeeper1/src"/>
+	<classpathentry kind="output" path="BankAccount/bin"/>
+</classpath>

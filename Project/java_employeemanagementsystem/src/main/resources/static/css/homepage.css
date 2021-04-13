@@ -1,0 +1,60 @@
+@charset "ISO-8859-1";
+
+.container-fluid {
+     padding-right: 0;
+     padding-left: 0;  
+     margin-right: auto;
+     margin-left: auto;
+}
+
+.navbar {
+  padding: 8px 40px 3.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.colored-section {
+  background-color: #222831;
+  color: #ffff;
+}
+
+.white-section {
+  background-color: #ffff;
+  color: black;
+}
+
+#features {
+  padding: 100px;
+}
+
+
+.features-column {
+  padding: 3% 2%;
+}
+
+.card-icon{
+	font-size: 5rem;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  font-size: 1.5rem;
+}
+
+footer {
+	text-align: center;
+	padding: 7% 15%;
+}

@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+.time-container{
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+}
+
+.time-text{
+	align-self: center;
+	font-size: 5rem;
+	color: green;
+}
